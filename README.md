@@ -4,9 +4,9 @@
 
 
 
-# 💫 About Me:
-⚡A Passionate Developer from India <br>🌱 I’m currently learning <br> 👯 I’m looking to collaborate on open-source projects and contribute to the developer community.
-<br>🤔 I’m currently exploring advanced programming techniques, AI, and web development.
+# 💫 About Me: A Passionate Developer from India
+🌱 I’m currently learning backend devlopment and AWS <br> 👯 I’m looking to collaborate on open-source projects and contribute to the developer community.
+<br>🤔 I’m currently exploring advanced programming techniques, application and web development.
 
 
 ## 🌐 Socials:
